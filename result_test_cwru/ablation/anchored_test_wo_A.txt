@@ -1,0 +1,452 @@
+[0000] GT=normal             | Pred=normal             | ✔ | normal=0.991, inner race fault=0.002, outer race fault=0.001, ball fault=0.006
+----- report -----
+fault=normal
+
+[0001] GT=normal             | Pred=normal             | ✔ | normal=0.988, inner race fault=0.003, outer race fault=0.001, ball fault=0.008
+----- report -----
+fault=normal
+
+[0002] GT=normal             | Pred=normal             | ✔ | normal=0.989, inner race fault=0.002, outer race fault=0.001, ball fault=0.008
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or lines above the baseline noise level across the entire frequency range shown, indicating no significant modulation components associated with mechanical defects. The signal remains consistently low amplitude throughout, suggesting no abnormal vibration signatures from rotating machinery elements. There is no evidence of energy concentration around any theoretical fault frequencies such as those expected for inner race, outer race, or ball faults. In summary, the spectrum corresponds to a normal condition with no detectable fault indicators.
+
+[0003] GT=normal             | Pred=normal             | ✔ | normal=0.961, inner race fault=0.005, outer race fault=0.003, ball fault=0.031
+----- report -----
+fault=normal
+
+[0004] GT=normal             | Pred=normal             | ✔ | normal=0.989, inner race fault=0.002, outer race fault=0.001, ball fault=0.007
+----- report -----
+fault=normal
+
+[0005] GT=normal             | Pred=normal             | ✔ | normal=0.967, inner race fault=0.005, outer race fault=0.003, ball fault=0.025
+----- report -----
+fault=normal
+
+[0006] GT=normal             | Pred=normal             | ✔ | normal=0.984, inner race fault=0.002, outer race fault=0.002, ball fault=0.012
+----- report -----
+fault=normal
+
+[0007] GT=normal             | Pred=normal             | ✔ | normal=0.984, inner race fault=0.003, outer race fault=0.002, ball fault=0.011
+----- report -----
+fault=normal
+
+[0008] GT=normal             | Pred=normal             | ✔ | normal=0.987, inner race fault=0.002, outer race fault=0.001, ball fault=0.009
+----- report -----
+fault=normal
+
+[0009] GT=normal             | Pred=normal             | ✔ | normal=0.983, inner race fault=0.003, outer race fault=0.002, ball fault=0.013
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or significant deviations from a baseline near zero, indicating no abnormal energy concentrations at characteristic fault frequencies. The signal remains consistently low across the entire frequency range shown, suggesting no mechanical irregularities are generating detectable sidebands or harmonics. There is also no evidence of modulation patterns or spikes that would point toward localized wear or damage within the rotating assembly. In summary, the spectrum exhibits behavior consistent with a normal condition.
+
+[0010] GT=normal             | Pred=normal             | ✔ | normal=0.989, inner race fault=0.002, outer race fault=0.001, ball fault=0.008
+----- report -----
+fault=normal
+
+[0011] GT=normal             | Pred=normal             | ✔ | normal=0.943, inner race fault=0.007, outer race fault=0.004, ball fault=0.046
+----- report -----
+fault=normal
+
+[0012] GT=normal             | Pred=normal             | ✔ | normal=0.987, inner race fault=0.003, outer race fault=0.002, ball fault=0.009
+----- report -----
+fault=normal
+
+[0013] GT=normal             | Pred=normal             | ✔ | normal=0.993, inner race fault=0.002, outer race fault=0.001, ball fault=0.005
+----- report -----
+fault=normal
+
+[0014] GT=normal             | Pred=normal             | ✔ | normal=0.973, inner race fault=0.004, outer race fault=0.003, ball fault=0.020
+----- report -----
+fault=normal
+
+[0015] GT=normal             | Pred=normal             | ✔ | normal=0.992, inner race fault=0.002, outer race fault=0.001, ball fault=0.005
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or lines above the baseline across the entire frequency range shown, indicating a complete absence of modulated sidebands typically associated with mechanical degradation. The signal remains consistently low-level throughout, suggesting no abnormal vibration signatures are present to indicate wear or damage within the rotating assembly. There is also no evidence of amplitude modulation or harmonic distortion that would suggest any component failure. In summary, the spectrum confirms a normal condition with no detectable anomalies.
+
+[0016] GT=normal             | Pred=normal             | ✔ | normal=0.974, inner race fault=0.004, outer race fault=0.002, ball fault=0.020
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the signal remains consistently low across the entire frequency range, showing no significant spikes or anomalies that would suggest mechanical irregularities. The most prominent feature is a gentle, persistent oscillation near twenty nine hertz, which lacks the sharp, isolated peaks typically associated with faulty components. There are no other discernible peaks or harmonics present to indicate any form of localized wear or damage within the rotating assembly. In summary, the spectrum indicates a normal condition.
+
+[0017] GT=normal             | Pred=normal             | ✔ | normal=0.983, inner race fault=0.003, outer race fault=0.002, ball fault=0.012
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or lines above the baseline noise level across the entire frequency range shown, indicating no significant modulation signatures associated with mechanical defects. The signal remains consistently low amplitude throughout, without any concentration of energy around theoretical fault frequencies such as one hundred and five hertz or one hundred and sixty hertz. This uniformity suggests the absence of any abnormal vibration patterns typically linked to bearing degradation. In summary, the spectrum exhibits characteristics consistent with a normal condition.
+
+[0018] GT=normal             | Pred=normal             | ✔ | normal=0.976, inner race fault=0.004, outer race fault=0.002, ball fault=0.018
+----- report -----
+fault=normal
+
+[0019] GT=normal             | Pred=normal             | ✔ | normal=0.992, inner race fault=0.002, outer race fault=0.001, ball fault=0.005
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or lines above the baseline noise level across the entire frequency range shown, indicating no significant modulation components associated with mechanical defects. The signal remains consistently low amplitude throughout, suggesting uniform rotational behavior without irregular impacts or vibrations typical of failing bearings. There is no evidence of energy concentration near any theoretical fault frequencies such as those expected for inner, outer, or ball elements. In summary, the spectrum reflects a normal condition.
+
+[0020] GT=normal             | Pred=normal             | ✔ | normal=0.964, inner race fault=0.005, outer race fault=0.003, ball fault=0.027
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or lines above the baseline, indicating no significant modulation components associated with mechanical defects. The signal remains consistently low across the entire frequency range shown, suggesting uniform behavior without abrupt changes or harmonics that would point toward wear or damage. There is no evidence of energy concentration around any theoretical fault frequencies such as those expected from inner race, outer race, or ball issues. In summary, the spectrum reflects a normal condition with no signs of degradation or malfunction.
+
+[0021] GT=normal             | Pred=normal             | ✔ | normal=0.965, inner race fault=0.005, outer race fault=0.003, ball fault=0.027
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or lines rising above the baseline across the entire frequency range shown, indicating a complete absence of modulated sidebands typically associated with mechanical degradation. The signal remains consistently low amplitude throughout, suggesting no abnormal vibration signatures are present to indicate wear or damage within the rotating assembly. There is also no evidence of harmonic distortion or frequency modulation that would suggest any component is operating under faulty conditions. In summary, the spectrum confirms a normal condition with no detectable anomalies.
+
+[0022] GT=normal             | Pred=normal             | ✔ | normal=0.994, inner race fault=0.001, outer race fault=0.001, ball fault=0.004
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or lines above the baseline, indicating no abnormal frequency components associated with mechanical wear or damage. The entire trace remains consistently low across the full frequency range shown, suggesting uniform behavior without modulation from faulty elements. There is no evidence of energy concentration around any theoretical fault frequencies such as those expected for inner race, outer race, or ball defects. In summary, the spectrum reflects a normal condition with no signs of degradation.
+
+[0023] GT=normal             | Pred=normal             | ✔ | normal=0.984, inner race fault=0.003, outer race fault=0.002, ball fault=0.012
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or lines rising above the baseline across the entire frequency range shown, indicating a complete absence of modulation signatures typically associated with mechanical degradation. The signal remains consistently low-level and smooth throughout, without any abrupt spikes or recurring harmonic structures that would suggest localized wear or damage. This uniformity implies the system is operating under stable conditions without evidence of abnormal vibration patterns. In summary, the spectrum confirms a normal condition.
+
+[0024] GT=normal             | Pred=normal             | ✔ | normal=0.946, inner race fault=0.007, outer race fault=0.004, ball fault=0.043
+----- report -----
+fault=normal
+
+[0025] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.080, inner race fault=0.434, outer race fault=0.022, ball fault=0.464
+----- report -----
+fault=ball fault
+
+[0026] GT=inner race fault   | Pred=inner race fault   | ✔ | normal=0.053, inner race fault=0.481, outer race fault=0.023, ball fault=0.443
+----- report -----
+fault=inner race fault
+
+[0027] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.047, inner race fault=0.417, outer race fault=0.026, ball fault=0.510
+----- report -----
+fault=ball fault
+
+[0028] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.056, inner race fault=0.375, outer race fault=0.029, ball fault=0.540
+----- report -----
+fault=ball fault
+
+[0029] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.056, inner race fault=0.401, outer race fault=0.025, ball fault=0.517
+----- report -----
+fault=ball fault
+
+[0030] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.054, inner race fault=0.336, outer race fault=0.030, ball fault=0.581
+----- report -----
+fault=ball fault
+
+[0031] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.053, inner race fault=0.377, outer race fault=0.025, ball fault=0.545
+----- report -----
+fault=ball fault
+
+[0032] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.045, inner race fault=0.452, outer race fault=0.022, ball fault=0.481
+----- report -----
+fault=ball fault
+
+[0033] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.057, inner race fault=0.356, outer race fault=0.025, ball fault=0.562
+----- report -----
+fault=ball fault
+
+[0034] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.057, inner race fault=0.452, outer race fault=0.023, ball fault=0.469
+----- report -----
+fault=ball fault
+
+[0035] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.048, inner race fault=0.417, outer race fault=0.023, ball fault=0.512
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, there are two distinct peaks visible near one hundred and sixty hertz and around three hundred ten hertz, which stand out against the otherwise low-amplitude background noise typical of a normal spectrum. These peaks are significantly higher than surrounding levels, suggesting a mechanical irregularity consistent with ball-fault behavior rather than a smooth operating condition. The absence of other prominent peaks further supports the interpretation that this anomaly stems specifically from ball-related issues. Therefore, the evidence points strongly toward a ball fault.
+
+[0036] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.052, inner race fault=0.454, outer race fault=0.027, ball fault=0.467
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, there's a clear, sharp spike near one hundred and sixty hertz which stands out against the otherwise low-amplitude background noise, indicating a distinct mechanical event. Another noticeable feature is a smaller but still prominent peak around three hundred hertz, suggesting a harmonic or sideband related to the primary signal. This pattern contrasts sharply with what would be seen in a normal envelope plot, where such isolated, high-magnitude peaks would not exist. In summary, the presence of this strong peak near one hundred fifty five hertz supports the identification of a ball fault.
+
+[0037] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.044, inner race fault=0.418, outer race fault=0.027, ball fault=0.512
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, there are two distinct peaks near one hundred and sixty hertz and around three hundred hertz, which stand out against the otherwise low-amplitude background noise typical of a normal spectrum. These peaks are significantly higher than surrounding levels, suggesting mechanical irregularities consistent with ball-fault behavior rather than smooth operation. The presence of multiple isolated spikes, especially at such high amplitudes, contrasts sharply with what would be seen under normal conditions where energy distribution remains relatively uniform. In summary, the spectral signature indicates a ball fault.
+
+[0038] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.096, inner race fault=0.316, outer race fault=0.028, ball fault=0.561
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, there are two distinct peaks clearly visible near one hundred and sixty hertz and around three hundred hertz, which stand out against the otherwise low-amplitude background noise typical of a normal spectrum. These peaks are significantly higher than surrounding levels, indicating mechanical irregularities consistent with ball-fault behavior rather than smooth operation. The absence of other prominent peaks suggests this particular type of failure is dominant here. In summary, the presence of these elevated peaks confirms the condition as ball fault.
+
+[0039] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.049, inner race fault=0.407, outer race fault=0.021, ball fault=0.522
+----- report -----
+fault=ball fault
+
+[0040] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.043, inner race fault=0.416, outer race fault=0.025, ball fault=0.516
+----- report -----
+fault=ball fault
+
+[0041] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.054, inner race fault=0.362, outer race fault=0.025, ball fault=0.558
+----- report -----
+fault=ball fault
+
+[0042] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.080, inner race fault=0.391, outer race fault=0.024, ball fault=0.505
+----- report -----
+fault=ball fault
+
+[0043] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.061, inner race fault=0.399, outer race fault=0.025, ball fault=0.515
+----- report -----
+fault=ball fault
+
+[0044] GT=inner race fault   | Pred=inner race fault   | ✔ | normal=0.045, inner race fault=0.468, outer race fault=0.023, ball fault=0.464
+----- report -----
+fault=inner race fault
+
+[0045] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.045, inner race fault=0.365, outer race fault=0.027, ball fault=0.563
+----- report -----
+fault=ball fault
+
+[0046] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.046, inner race fault=0.433, outer race fault=0.028, ball fault=0.493
+----- report -----
+fault=ball fault
+
+[0047] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.050, inner race fault=0.359, outer race fault=0.033, ball fault=0.559
+----- report -----
+fault=ball fault
+
+[0048] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.059, inner race fault=0.426, outer race fault=0.024, ball fault=0.491
+----- report -----
+fault=ball fault
+
+[0049] GT=inner race fault   | Pred=ball fault         | ✘ | normal=0.061, inner race fault=0.420, outer race fault=0.021, ball fault=0.498
+----- report -----
+fault=ball fault
+
+[0050] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.068, inner race fault=0.214, outer race fault=0.059, ball fault=0.660
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notably, prominent spikes occur near one hundred and eight, two hundred, three hundred, five hundred, and six hundred hertz, suggesting a pattern inconsistent with operational stability. These isolated high-amplitude components indicate intermittent mechanical disturbances rather than continuous vibration. In summary, the presence of these scattered, sharp peaks strongly suggests a ball fault.
+
+[0051] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.068, inner race fault=0.229, outer race fault=0.066, ball fault=0.637
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals rather than forming the smooth baseline typical of a normal spectrum, indicating mechanical irregularity. Peaks are clearly visible near one hundred and two hertz, around two hundred and nine hertz, and also near three hundred and twelve hertz, which aligns with known ball-fault signatures. These discrete harmonics suggest repeated impacts from defective rolling elements, unlike the absence of such spikes in a normal condition. In summary, the presence of these specific harmonic peaks confirms a ball fault.
+
+[0052] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.073, inner race fault=0.204, outer race fault=0.060, ball fault=0.663
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notably, prominent spikes occur near one hundred and two hertz, around two hundred and nine hertz and three hundred and twelve hertz, suggesting recurring mechanical events. These peaks align closely with known ball-fault signatures rather than those associated with other bearing components. In summary, the presence of these specific harmonic peaks confirms a ball fault.
+
+[0053] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.064, inner race fault=0.209, outer race fault=0.067, ball fault=0.660
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth, low-amplitude baseline typical of a normal spectrum. Notable spikes occur near one hundred and two hertz, around two hundred and nine hertz, and also at three hundred and twelve hertz, each standing out against the background noise. These isolated, sharp peaks suggest a mechanical disturbance consistent with ball-fault behavior rather than uniform rotational motion. In summary, the presence of these discrete harmonic-like peaks confirms a ball fault.
+
+[0054] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.064, inner race fault=0.202, outer race fault=0.057, ball fault=0.677
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notably, prominent spikes occur near one hundred and two hertz, about two hundred and nine hertz, and around three hundred and twelve hertz—frequencies consistent with ball-related vibration signatures. These peaks are spaced apart without forming a regular harmonic pattern, suggesting uneven excitation from individual balls rather than a uniform structural issue. In summary, the presence of isolated, non-harmonic peaks at these specific frequencies confirms a ball fault.
+
+[0055] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.077, inner race fault=0.233, outer race fault=0.069, ball fault=0.621
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notably, prominent spikes occur near one hundred and two hertz, about two hundred and nine hertz, and around three hundred and twelve hertz, suggesting a pattern inconsistent with operational stability. These isolated harmonic-like features, especially their spacing and magnitude, point toward a condition involving the rolling elements rather than stationary races. In summary, the presence of these discrete spectral lines indicates a ball fault.
+
+[0056] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.073, inner race fault=0.223, outer race fault=0.065, ball fault=0.639
+----- report -----
+fault=ball fault
+
+[0057] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.065, inner race fault=0.224, outer race fault=0.050, ball fault=0.661
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals across the frequency range, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notably, prominent spikes occur near one hundred and two hertz, about two hundred and nine hertz, and around three hundred and twelve hertz, each separated from others by roughly equal spacing — a pattern inconsistent with simple mechanical vibration. These spaced harmonics suggest a repetitive impact mechanism associated with a ball fault rather than continuous rotation. In summary, the presence of these regularly spaced harmonic peaks confirms the signature of a ball fault.
+
+[0058] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.062, inner race fault=0.213, outer race fault=0.066, ball fault=0.659
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals rather than showing the smooth baseline typical of a normal spectrum, indicating mechanical irregularity. Peaks are clearly visible near one hundred and eight, two hundred, three hundred, five hundred, and six hundred hertz, suggesting recurring impacts from faulty components. These frequencies align closely with known ball-fault signatures while lacking the dominant inner or outer race harmonics seen in other failure modes. In summary, the presence of isolated, widely spaced peaks consistent with ball-fault characteristics confirms the diagnosis.
+
+[0059] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.059, inner race fault=0.226, outer race fault=0.054, ball fault=0.661
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Peaks are clearly visible near one hundred and eight, two hundred, three hundred, five hundred, and six hundred hertz, indicating recurring mechanical events. These frequencies align closely with multiples of the fundamental ball-related signature, suggesting a pattern consistent with rolling element wear rather than inner or outer race issues. In summary, the presence of these spaced harmonics strongly indicates a ball fault.
+
+[0060] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.072, inner race fault=0.221, outer race fault=0.068, ball fault=0.639
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Peaks are clearly visible near one hundred and eight, two hundred, three hundred, five hundred, and six hundred hertz, indicating a pattern inconsistent with operational stability. These discrete harmonics suggest mechanical interaction involving rolling elements rather than uniform rotation. In summary, the presence of these specific harmonic signatures confirms a ball fault.
+
+[0061] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.064, inner race fault=0.192, outer race fault=0.055, ball fault=0.690
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth, low-amplitude baseline typical of a normal spectrum. Notable spikes occur near one hundred and thirteen hertz, around two hundred and nine hertz, and close to three hundred and twelve hertz—each separated by roughly equal spacing suggesting a repeating mechanical event. These isolated, sharp peaks lack the broader harmonic structure often seen in spectra from other bearing faults, pointing specifically toward issues related to the rolling elements. In summary, the presence of discrete, widely spaced peaks consistent with rotational multiples strongly indicates a ball fault.
+
+[0062] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.068, inner race fault=0.217, outer race fault=0.055, ball fault=0.660
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notable spikes occur near one hundred and two hertz, around two hundred and nine hertz, and close to three hundred and twelve hertz, suggesting a pattern inconsistent with operational stability. These isolated, sharp peaks indicate mechanical disruption consistent with ball-related issues rather than uniform rotational behavior. In summary, the presence of these scattered high-amplitude peaks confirms a ball fault.
+
+[0063] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.065, inner race fault=0.214, outer race fault=0.060, ball fault=0.662
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear scattered across the frequency range, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notable spikes occur near one hundred and two hertz, around two hundred and nine hertz and three hundred and twelve hertz, each standing out against the low-amplitude background noise. These isolated, sharp peaks suggest a mechanical irregularity consistent with ball-fault behavior rather than uniform rotational motion. In summary, the presence of these discrete harmonic-like peaks confirms a ball fault.
+
+[0064] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.060, inner race fault=0.196, outer race fault=0.068, ball fault=0.676
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notably, prominent spikes occur near one hundred and two hertz, about two hundred and nine hertz, and around five hundred and seventeen hertz—frequencies that align with known ball-fault indicators. These isolated, sharp peaks suggest mechanical disruptions consistent with ball-related wear rather than uniform rotational behavior. In summary, the presence of these discrete harmonic signatures confirms a ball fault.
+
+[0065] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.070, inner race fault=0.227, outer race fault=0.061, ball fault=0.641
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Peaks are clearly visible near one hundred and eight, two hundred, three hundred, five hundred, and six hundred hertz, indicating recurring mechanical events. These frequencies align closely with the known characteristics associated with ball faults rather than other bearing components. In summary, the presence of these specific harmonic peaks confirms a ball fault.
+
+[0066] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.065, inner race fault=0.235, outer race fault=0.063, ball fault=0.637
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notably, prominent spikes occur near one hundred and two hertz, about two hundred and nine hertz, and around three hundred and twelve hertz—frequencies that align with known ball-fault indicators. These peaks are spaced unevenly across the chart, suggesting intermittent mechanical interaction rather than consistent rotational patterns seen in normal operation. In summary, the presence of these discrete harmonic components confirms a ball fault.
+
+[0067] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.070, inner race fault=0.218, outer race fault=0.061, ball fault=0.651
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notable spikes occur near one hundred and two hertz, around two hundred and nine hertz, and also at three hundred and twelve hertz, each standing out against the low-amplitude background noise. These isolated, high-magnitude peaks suggest mechanical irregularities consistent with a ball fault rather than uniform rotational behavior. In summary, the presence of several sharp, discrete peaks across the frequency range confirms this is a ball fault.
+
+[0068] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.063, inner race fault=0.193, outer race fault=0.060, ball fault=0.684
+----- report -----
+fault=ball fault
+
+[0069] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.073, inner race fault=0.234, outer race fault=0.065, ball fault=0.629
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Peaks are clearly visible near one hundred and two hertz, around two hundred and nine hertz, and also at three hundred and twelve hertz, each standing out against the low background noise. These prominent spikes suggest a disruption consistent with ball-related issues rather than inner or outer race problems. In summary, the presence of these isolated, high-amplitude peaks confirms a ball fault.
+
+[0070] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.066, inner race fault=0.235, outer race fault=0.066, ball fault=0.633
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notable spikes occur near one hundred and two hertz, about two hundred and nine hertz, and around three hundred and twelve hertz, each separated by roughly equal spacing consistent with ball-passing phenomena. These discrete harmonic-like features suggest repetitive mechanical impacts associated with rolling elements rather than continuous rotational motion. In summary, the presence of spaced, sharp peaks indicates a ball fault.
+
+[0071] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.064, inner race fault=0.223, outer race fault=0.061, ball fault=0.652
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notably, prominent spikes occur near one hundred and two hertz, about two hundred and nine hertz, and around three hundred and twelve hertz — all consistent with ball-related fault signatures. These peaks are spaced apart without forming the regular harmonic patterns seen in other bearing faults, reinforcing the presence of a ball issue rather than inner or outer race problems. In summary, the pattern of isolated, widely separated peaks confirms a ball fault.
+
+[0072] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.064, inner race fault=0.212, outer race fault=0.065, ball fault=0.659
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear scattered across the frequency range, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notably, prominent spikes occur near one hundred and eight, two hundred, three hundred, five hundred, and six hundred hertz, each standing out against the low-amplitude background noise. These isolated high-energy peaks suggest mechanical irregularities consistent with ball-fault behavior rather than uniform rotational motion. In summary, the presence of these discrete harmonic-like peaks strongly indicates a ball fault.
+
+[0073] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.064, inner race fault=0.228, outer race fault=0.066, ball fault=0.641
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear scattered across the frequency range, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notable spikes occur near one hundred and two hertz, around two hundred and nine hertz, and close to three hundred and twelve hertz, each standing out against the low-level background noise. These isolated, high-amplitude peaks suggest irregularities consistent with a ball fault rather than uniform rotational behavior. In summary, the presence of these discrete harmonic-like peaks confirms a ball fault.
+
+[0074] GT=outer race fault   | Pred=ball fault         | ✘ | normal=0.062, inner race fault=0.171, outer race fault=0.056, ball fault=0.711
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, multiple distinct peaks appear at irregular intervals, which contrasts sharply with the smooth baseline typical of a normal spectrum. Notable spikes occur near one hundred and two hertz, around two hundred and nine hertz, and close to three hundred and twelve hertz, each standing out against the low-amplitude background noise. These isolated high-energy points suggest mechanical disruptions consistent with a ball fault rather than uniform rotational behavior. In summary, the presence of these scattered, elevated peaks confirms a ball fault.
+
+[0075] GT=ball fault         | Pred=normal             | ✘ | normal=0.891, inner race fault=0.009, outer race fault=0.006, ball fault=0.094
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there is a single noticeable peak near one hundred herts, which stands out against the otherwise low-level background noise across the entire frequency range. The rest of the spectrum remains relatively smooth without additional significant peaks or modulation patterns that would suggest mechanical irregularities. There are no other discernible harmonic lines or sidebands present to indicate any type of localized wear or damage within the rotating assembly. In summary, the spectral signature indicates a normal condition.
+
+[0076] GT=ball fault         | Pred=normal             | ✘ | normal=0.988, inner race fault=0.003, outer race fault=0.001, ball fault=0.008
+----- report -----
+fault=normal
+When I examine the envelope spectrum, it displays a generally flat baseline with minor fluctuations near the lower end of the frequency axis, showing no distinct or elevated spectral lines that would suggest mechanical irregularity. Three faint but discernible peaks appear around ninety seven hertz, fifty nine hertz, and forty seven hertz respectively, which lack the sharpness or prominence typical of fault signatures. These peaks are too weak and dispersed to align with known theoretical fault frequencies associated with bearing components. In summary, the spectrum indicates a normal condition.
+
+[0077] GT=ball fault         | Pred=normal             | ✘ | normal=0.980, inner race fault=0.003, outer race fault=0.002, ball fault=0.015
+----- report -----
+fault=normal
+
+[0078] GT=ball fault         | Pred=normal             | ✘ | normal=0.871, inner race fault=0.014, outer race fault=0.007, ball fault=0.109
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the signal remains consistently low across the entire frequency range without showing any distinct or elevated peaks that would suggest mechanical irregularity. The waveform displays only minor fluctuations near zero amplitude, indicating no discernible repetitive impulses associated with faulty components. There are no prominent lines or clusters around any theoretical fault frequencies such as those expected for outer race, inner race, or ball issues. In summary, the spectrum exhibits characteristics consistent with a normal condition.
+
+[0079] GT=ball fault         | Pred=normal             | ✘ | normal=0.974, inner race fault=0.004, outer race fault=0.002, ball fault=0.020
+----- report -----
+fault=normal
+
+[0080] GT=ball fault         | Pred=normal             | ✘ | normal=0.953, inner race fault=0.006, outer race fault=0.004, ball fault=0.038
+----- report -----
+fault=normal
+
+[0081] GT=ball fault         | Pred=normal             | ✘ | normal=0.980, inner race fault=0.003, outer race fault=0.002, ball fault=0.014
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no distinct or elevated peaks present across the entire frequency range shown, which suggests the absence of any localized mechanical irregularities. The signal remains consistently low amplitude throughout, showing only minor fluctuations near zero without any discernible harmonic structures or dominant frequencies that would indicate wear or damage. This smooth, baseline-like behavior implies stable rotational motion without any detectable anomalies in the bearing components. In summary, the spectrum indicates a normal condition.
+
+[0082] GT=ball fault         | Pred=normal             | ✘ | normal=0.929, inner race fault=0.008, outer race fault=0.005, ball fault=0.059
+----- report -----
+fault=normal
+
+[0083] GT=ball fault         | Pred=normal             | ✘ | normal=0.884, inner race fault=0.012, outer race fault=0.006, ball fault=0.098
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there is a single noticeable peak near about one hundred herts, while the rest of the spectrum remains largely flat and quiet without additional significant components. This solitary peak does not align with any of the typical theoretical fault markers such as BPFO, BPFI, or BSF, which would indicate specific mechanical issues. The overall signal level is very low across nearly all frequencies, suggesting no abnormal vibration signatures are present. In summary, the spectrum indicates a normal condition.
+
+[0084] GT=ball fault         | Pred=normal             | ✘ | normal=0.958, inner race fault=0.005, outer race fault=0.003, ball fault=0.033
+----- report -----
+fault=normal
+
+[0085] GT=ball fault         | Pred=normal             | ✘ | normal=0.950, inner race fault=0.007, outer race fault=0.004, ball fault=0.039
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or lines indicating any abnormal mechanical behavior, and the signal remains consistently low across the entire frequency range shown. The waveform exhibits minimal fluctuation, suggesting stable operation without any evidence of localized vibration signatures typically associated with faulty components. There is no indication of energy concentration around any theoretical fault frequencies such as those expected for inner race, outer race, or ball defects. In summary, the spectrum confirms a normal condition.
+
+[0086] GT=ball fault         | Pred=normal             | ✘ | normal=0.980, inner race fault=0.003, outer race fault=0.002, ball fault=0.015
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no distinct peaks or lines rising above the baseline, which suggests the absence of any modulated fault-related components. The entire trace remains consistently low and smooth across the full frequency range shown, indicating no evidence of mechanical irregularities. There is no discernible energy concentration around any theoretical fault frequencies such as those associated with outer race, inner race, or ball defects. In summary, the spectrum exhibits characteristics consistent with a normal condition.
+
+[0087] GT=ball fault         | Pred=normal             | ✘ | normal=0.964, inner race fault=0.005, outer race fault=0.003, ball fault=0.028
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the signal remains consistently low across the entire frequency range, showing no significant spikes or anomalies that would suggest mechanical distress. The most prominent feature is a gentle, fluctuating baseline around fifty six herts, which lacks the sharp, isolated peaks typically associated with failing components. There are no discernible harmonics or sidebands near the theoretical fault frequencies, reinforcing the absence of any abnormal vibration signatures. In summary, the spectrum indicates a normal condition.
+
+[0088] GT=ball fault         | Pred=normal             | ✘ | normal=0.983, inner race fault=0.003, outer race fault=0.002, ball fault=0.012
+----- report -----
+fault=normal
+
+[0089] GT=ball fault         | Pred=normal             | ✘ | normal=0.958, inner race fault=0.005, outer race fault=0.004, ball fault=0.033
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no distinct peaks or lines visible across the entire frequency range shown, which suggests the absence of any modulated fault-related components. The signal remains consistently low-level throughout, showing only minor fluctuations near zero hertz without any concentration around theoretical fault frequencies like one hundred and five hertz or one hundred and sixty hertz. This uniform baseline behavior indicates no detectable mechanical irregularities associated with bearing elements. In summary, the spectrum corresponds to a normal condition.
+
+[0090] GT=ball fault         | Pred=normal             | ✘ | normal=0.989, inner race fault=0.002, outer race fault=0.001, ball fault=0.007
+----- report -----
+fault=normal
+
+[0091] GT=ball fault         | Pred=normal             | ✘ | normal=0.964, inner race fault=0.005, outer race fault=0.003, ball fault=0.028
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no distinct peaks or lines visible across the entire frequency range shown, which suggests the signal remains smooth without any modulation indicative of mechanical irregularities. The trace stays consistently low near zero amplitude throughout the plotted interval, showing no signs of energy concentration around any particular frequency that would point toward abnormal operation. This uniform baseline behavior implies the system is operating under typical conditions without detectable vibration signatures from faulty components. Overall, the spectrum indicates a normal condition.
+
+[0092] GT=ball fault         | Pred=normal             | ✘ | normal=0.963, inner race fault=0.005, outer race fault=0.003, ball fault=0.029
+----- report -----
+fault=normal
+
+[0093] GT=ball fault         | Pred=normal             | ✘ | normal=0.943, inner race fault=0.006, outer race fault=0.004, ball fault=0.047
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the signal remains consistently low across the entire frequency range, showing no significant spikes or anomalies that would suggest mechanical distress. The most prominent feature is a gentle, recurring oscillation near about sixty hertz, which lacks the sharp, isolated peaks typically associated with failing components. There are no discernible harmonics or sidebands around known theoretical fault frequencies like BPFO, BPFI, or BSF, reinforcing the absence of any detectable degradation. In summary, the spectrum indicates a normal condition.
+
+[0094] GT=ball fault         | Pred=normal             | ✘ | normal=0.861, inner race fault=0.014, outer race fault=0.008, ball fault=0.117
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the signal remains consistently low across the entire frequency range, showing no significant spikes or anomalies that would suggest mechanical distress. A single weak peak appears near forty one hertz, which does not align with any known theoretical bearing fault markers such as BPFO, BPFI, or BSF. The overall baseline is smooth with minimal fluctuation, indicating stable operation without detectable irregularities. In summary, the spectrum reflects a normal condition.
+
+[0095] GT=ball fault         | Pred=normal             | ✘ | normal=0.991, inner race fault=0.002, outer race fault=0.001, ball fault=0.006
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or lines above the baseline noise level across the entire frequency range shown, indicating no significant modulation components associated with mechanical faults. The signal remains consistently low amplitude throughout, suggesting uniform rotational behavior without irregular impacts or vibrations typical of failing bearings. There is no evidence of energy concentration near any theoretical fault frequencies such as those expected for outer race, inner race, or ball defects. In summary, the spectrum reflects a normal condition.
+
+[0096] GT=ball fault         | Pred=normal             | ✘ | normal=0.948, inner race fault=0.007, outer race fault=0.004, ball fault=0.042
+----- report -----
+fault=normal
+
+[0097] GT=ball fault         | Pred=normal             | ✘ | normal=0.863, inner race fault=0.015, outer race fault=0.009, ball fault=0.112
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no discernible peaks or lines indicating any abnormal mechanical activity, and the signal remains consistently low across the entire frequency range shown. The waveform appears smooth and uniform without any sharp spikes or recurring modulation patterns that would suggest wear or damage within the bearing structure. There is no evidence of energy concentration around any theoretical fault frequencies such as those associated with inner race, outer race, or ball elements. In summary, the spectrum indicates a normal condition.
+
+[0098] GT=ball fault         | Pred=normal             | ✘ | normal=0.982, inner race fault=0.003, outer race fault=0.002, ball fault=0.013
+----- report -----
+fault=normal
+
+[0099] GT=ball fault         | Pred=normal             | ✘ | normal=0.985, inner race fault=0.003, outer race fault=0.002, ball fault=0.011
+----- report -----
+fault=normal
+When I examine the envelope spectrum, there are no distinct peaks or lines visible across the entire frequency range shown, indicating a lack of any modulated sidebands that would suggest mechanical irregularity. The signal remains consistently low amplitude throughout, showing only minor fluctuations near zero without any discernible repeating patterns or energy concentrations at known fault-related frequencies. This absence of identifiable spectral features implies the system is operating under typical conditions without evidence of localized wear or damage. In summary, the spectrum confirms a normal condition.
+

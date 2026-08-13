@@ -1,0 +1,483 @@
+[0000] GT=normal             | Pred=ball fault         | ✘ | normal=0.088, inner race fault=0.000, outer race fault=0.000, ball fault=0.911
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across the whole band, but compared with a truly clean reference trace under similar operating conditions, this curve shows more frequent small fluctuations and slightly denser low-frequency activity near the bottom part of the scale. Around the theoretical rolling element region there isn't a single sharp, narrow component standing clearly above the background, nor does a strong harmonic family develop into a distinct sideband structure. Instead, energy appears distributed in several weak clusters without forming a dominant coherent pattern aligned with the predicted outer race or inner race bands. At higher frequencies the response remains close to noise floor again, without clear organised families or regular repetition intervals. Overall, the signature here reflects subtle broadband excitation rather than a focused impact sequence tied to a specific race track, so I classify this condition as ball fault under current criteria.
+
+[0001] GT=normal             | Pred=normal             | ✔ | normal=0.792, inner race fault=0.000, outer race fault=0.000, ball fault=0.208
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the overall vibration level remains very low across the whole measured band, forming a gently rippled baseline close to zero without sharp rises above this floor. Around the theoretical outer race, inner race and ball characteristic regions, no distinct narrow peaks emerge clearly from the surrounding noise floor, nor do organised harmonic families develop into structured ridges. Instead, the trace consists mainly of weak, scattered fluctuations whose amplitude stays well below the reference lines used for judging relative activity. At higher frequencies, the response continues to stay subdued without building up into separate bands or repeating patterns. In summary, under current operating conditions, the spectrum shows only mild broadband motion consistent with a quiet mechanical system under nominal load, so I classify this condition as normal.
+
+[0002] GT=normal             | Pred=normal             | ✔ | normal=0.696, inner race fault=0.000, outer race fault=0.000, ball fault=0.304
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the overall trace stays very close to the zero line across the whole measured band, showing only gentle, irregular ripples rather than sharp rises above this baseline. Around the theoretical outer race, ball and inner race characteristic regions, there is no clear narrow peak standing out distinctly from the surrounding noise floor. Similarly, their harmonics and related combinations do not form organised families or repeating patterns. Instead, the energy remains scattered and weakly distributed over multiple bands without forming dominant lines or structured clusters. In summary, the response presents a quiet, featureless spectrum dominated by low-level broadband vibration under current operating conditions, which is consistent with a normal condition for this bearing.
+
+[0003] GT=normal             | Pred=ball fault         | ✘ | normal=0.078, inner race fault=0.000, outer race fault=0.000, ball fault=0.922
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with the smoother reference trace under similar operating conditions, this curve shows more frequent small fluctuations near the lower end and slightly denser activity around the mid-band region where the rolling-element-related family of features would appear. Around the theoretical ball-passing frequency for this unit, there isn't a single sharp, narrow component rising clearly above the surrounding noise floor, nor does a simple harmonic series develop into a clean sideband structure. Instead, energy remains spread out over several adjacent bins without forming a dominant discrete line or organised pattern. At higher multiples of the fundamental, the response continues to stay close to the quiet background rather than building up into separate families of harmonics. Overall, the impression is one of weak, diffuse excitation rather than strong periodic impacts, which is consistent with a mild ball fault under current load and speed.
+
+[0004] GT=normal             | Pred=normal             | ✔ | normal=0.658, inner race fault=0.000, outer race fault=0.000, ball fault=0.342
+----- report -----
+fault=normal
+
+[0005] GT=normal             | Pred=normal             | ✔ | normal=0.818, inner race fault=0.000, outer race fault=0.000, ball fault=0.182
+----- report -----
+fault=normal
+
+[0006] GT=normal             | Pred=normal             | ✔ | normal=0.871, inner race fault=0.000, outer race fault=0.000, ball fault=0.129
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the overall vibration level remains very low across the whole measured band, forming a gently rippled baseline close to zero without sharp rises above this background. Around the theoretical outer race, rolling element and inner race characteristic regions, there are no distinct narrow peaks standing clearly above the surrounding noise floor, nor organised harmonic families extending from those locations. Instead, the trace consists mainly of small, scattered fluctuations that stay within a similar amplitude range throughout the plot. At higher frequencies, the response continues to behave similarly, showing neither clustering nor strong sidebands associated with impact patterns or modulation effects. Overall, the spectrum presents a quiet, featureless condition consistent with a normal bearing under current operating conditions.
+
+[0007] GT=normal             | Pred=normal             | ✔ | normal=0.939, inner race fault=0.000, outer race fault=0.000, ball fault=0.061
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the overall vibration level remains very low across the whole band, forming a smooth curve close to the zero baseline. Only small, scattered ripples appear on this quiet background, without developing into clear, narrow peaks or organised harmonic families. Around the theoretical outer race, ball and inner race characteristic regions, no single component stands out distinctly above the surrounding noise floor. Similarly, there are no obvious sidebands or evenly spaced patterns that would suggest strong periodic impacts or modulation effects. In summary, the response shows weak broadband activity but lacks focused fault-related structures, which is consistent with a normal condition under current operating conditions.
+
+[0008] GT=normal             | Pred=ball fault         | ✘ | normal=0.063, inner race fault=0.000, outer race fault=0.000, ball fault=0.936
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across almost all measured bands compared with typical higher-energy reference states under similar operating conditions. At lower frequencies, the trace shows several small, scattered peaks rather than forming clear harmonic families or strong sideband patterns around known theoretical fault regions. Around the rolling-element characteristic region near about one hundred and forty hertz, there isn't a single dominant narrow component standing out distinctly above the surrounding noise floor. Similarly, no obvious organised progression of harmonics appears in the adjacent areas where other bearing components would normally show stronger responses if they were active. Compared with cleaner reference traces, this particular signature lacks focused energy concentration while still maintaining a relatively uniform background level. Overall, the pattern suggests weak, diffuse activity consistent with a mild ball-related condition rather than pronounced race faults or severe impacts.
+
+[0009] GT=normal             | Pred=normal             | ✔ | normal=0.772, inner race fault=0.000, outer race fault=0.000, ball fault=0.228
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the overall vibration level remains very low across the whole measured band, forming a gently rippled baseline close to zero without sharp rises above this background. Around the theoretical outer race, ball and inner race characteristic regions, there are no distinct narrow peaks standing clearly above the surrounding noise floor, nor organised harmonic families extending from those positions. Instead, the trace consists mainly of small, scattered fluctuations that stay within a similar amplitude range throughout the chart. At higher frequencies, the response continues to behave similarly, showing neither clustering nor energy concentration into separate bands. Overall, the spectrum presents a quiet and evenly distributed pattern consistent with a bearing operating under normal conditions.
+
+[0010] GT=normal             | Pred=normal             | ✔ | normal=0.573, inner race fault=0.000, outer race fault=0.000, ball fault=0.427
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the overall trace stays very close to the zero line across the whole measured band, showing only gentle, irregular ripples rather than sharp rises above background. At the marked theoretical outer race, inner race and rolling element bands, there is no clear narrow peak standing out distinctly against this quiet floor, nor does energy concentrate into organised harmonic families around those positions. Similarly, higher-order multiples of the characteristic frequencies remain subdued and scattered without forming coherent sidebands or regular spacing patterns. Compared with spectra where localised lines dominate, here the response appears evenly distributed and weakly fluctuating throughout the range. In summary, under current operating conditions the vibration signature remains low and diffuse, consistent with a normal condition for this unit.
+
+[0011] GT=normal             | Pred=ball fault         | ✘ | normal=0.393, inner race fault=0.000, outer race fault=0.000, ball fault=0.607
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across almost the whole band, but compared with a clean reference under similar operating conditions, this trace shows more frequent small fluctuations near the lower end rather than forming distinct narrow peaks around the theoretical outer race or inner race bands. Around the region where the rolling element characteristic frequency lies, there isn't a single sharp component rising clearly above the surrounding noise floor — instead, the energy remains spread out into several weak, closely spaced ripples without developing into a dominant harmonic family. Similarly, higher up in the chart, no organised sideband structure appears aligned with multiples of either the outer race or ball-passing rate. Overall, the response lacks clear fault-related tonal signatures while staying close to background levels, which supports a mild ball fault condition under current load and speed.
+
+[0012] GT=normal             | Pred=normal             | ✔ | normal=0.864, inner race fault=0.000, outer race fault=0.000, ball fault=0.136
+----- report -----
+fault=normal
+When I examine the envelope spectrum, its overall amplitude stays very low across the whole measured band, forming a gently rippled but otherwise flat baseline close to zero. Around the theoretical outer race, ball and inner race characteristic regions, no clear narrow peaks rise distinctly above this quiet background, nor do separate families of evenly spaced harmonics develop into organised sidebands. Instead, the trace shows only weak, scattered fluctuations that remain comparable in height to the surrounding noise floor without forming dominant structures. At higher frequencies, the response continues to stay subdued without building into discrete lines or rising bands. Overall, the spectrum presents a clean, featureless appearance consistent with a bearing operating under normal conditions.
+
+[0013] GT=normal             | Pred=ball fault         | ✘ | normal=0.346, inner race fault=0.000, outer race fault=0.000, ball fault=0.654
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very close to a quiet reference level across the whole band, without forming strong, narrow peaks that would stand out clearly above the background. Compared with the cleaner response seen under normal conditions, this trace shows slightly more unevenness in the lower part of the curve, where small fluctuations occur rather than a perfectly flat floor. Around the region associated with the rolling element's characteristic frequency, there is no single dominant component pulling energy away from the surrounding noise floor, nor does a clear harmonic family develop into a structured pattern. Instead, the activity remains scattered and weak, appearing as gentle ripples rather than organised bands or sharp ridges. In summary, the spectrum presents a relatively calm picture dominated by broadband noise without distinct fault-related structures, which is consistent with a mild ball fault under current operating conditions.
+
+[0014] GT=normal             | Pred=ball fault         | ✘ | normal=0.246, inner race fault=0.000, outer race fault=0.000, ball fault=0.754
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very close to a quiet reference level across almost all measured bands, so there isn’t a strong dominant component rising clearly above this background. Compared with the cleaner, flatter response seen under normal operating conditions, the current trace shows slightly more frequent small fluctuations rather than smooth, evenly spaced ripples. Around the theoretical rolling-element region near about one hundred and forty hertz, no sharp, narrow line stands out distinctly against the surrounding noise floor. Similarly, higher harmonics related to the outer race or inner race families do not form clear harmonic series or organised sideband patterns. Instead, energy remains spread thinly over multiple adjacent bins without developing into discrete clusters. Overall, the pattern suggests weak, diffuse activity consistent with a mild ball-related condition rather than distinct race faults or severe impacts.
+
+[0015] GT=normal             | Pred=normal             | ✔ | normal=0.896, inner race fault=0.000, outer race fault=0.000, ball fault=0.104
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the overall trace stays very close to the zero line across the whole measured band, showing only gentle, irregular ripples without forming clear organised structures. Around the theoretical outer race, rolling element and inner race bands there are no sharp narrow lines rising distinctly above the background level, nor do separate families of evenly spaced harmonics develop into coherent sidebands. Instead, energy remains spread thinly over the lower part of the curve, producing only weak local fluctuations rather than dominant discrete components. At higher frequencies the response continues to stay low and relatively flat compared to the reference baseline. In summary, this pattern reflects a quiet broadband floor with no strong periodic features tied to the bearing's characteristic regions, which is consistent with a normal condition under current operating conditions.
+
+[0016] GT=normal             | Pred=normal             | ✔ | normal=0.621, inner race fault=0.000, outer race fault=0.000, ball fault=0.379
+----- report -----
+fault=normal
+When I examine the envelope spectrum, its overall level remains very low across the whole band, forming a gently rippled floor close to zero without sharp rises above this baseline. Around the theoretical outer race, inner race and rolling element bands, there is no clear organised harmonic family or evenly spaced sideband pattern associated with strong impact events. Instead, the energy appears broadly distributed into weak, scattered components rather than concentrated at discrete multiples of a dominant feature. At higher frequencies, the trace continues to stay near the quiet background with only minor fluctuations. Overall, the response shows little sign of regular impulsive activity under current operating conditions, which is consistent with a normal condition.
+
+[0017] GT=normal             | Pred=normal             | ✔ | normal=0.701, inner race fault=0.000, outer race fault=0.000, ball fault=0.299
+----- report -----
+fault=normal
+
+[0018] GT=normal             | Pred=ball fault         | ✘ | normal=0.338, inner race fault=0.000, outer race fault=0.000, ball fault=0.662
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with a clean reference under similar operating conditions, there is more unevenness near the lower part of the chart. Around the region where the rolling element characteristic frequency lies, the trace shows several small, scattered rises rather than forming a single sharp component or clear harmonic family. These features appear slightly denser than elsewhere on this quiet background, though they remain weak and do not develop into strong sidebands or organised patterns. Above about twice the rolling-element frequency, the response continues close to the noise floor without distinct clusters or regular spacing. Overall, the pattern suggests subtle, distributed activity consistent with mild ball-related impacts rather than dominant race faults or severe broadband degradation.
+
+[0019] GT=normal             | Pred=normal             | ✔ | normal=0.922, inner race fault=0.000, outer race fault=0.000, ball fault=0.078
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the overall vibration level remains very low across the whole measured band, forming a gently rippled baseline close to zero without sharp rises above this background. Around the theoretical outer race, inner race and ball characteristic regions, no distinct narrow peaks emerge clearly from this quiet floor, nor do organised harmonic families develop into structured patterns. Instead, the trace consists mostly of small, scattered fluctuations that stay well below half the reference grid lines and show little sign of repeating at fixed intervals. At higher frequencies, the response continues flat and featureless, with no isolated bands or clusters dominating the spectrum. Overall, the envelope presents a clean, uniform noise-like behaviour consistent with a bearing operating under normal conditions without obvious localised impact activity.
+
+[0020] GT=normal             | Pred=normal             | ✔ | normal=0.779, inner race fault=0.000, outer race fault=0.000, ball fault=0.220
+----- report -----
+fault=normal
+When I examine the envelope spectrum, the overall vibration level remains very low across the whole band, forming a gently rippled baseline close to zero without sharp rises above this floor. Around the theoretical outer race, inner race and ball characteristic regions, there are no distinct narrow peaks standing clearly above the surrounding noise, nor organised harmonic families extending from those positions. Instead, the trace shows only weak, scattered fluctuations consistent with slight broadband background activity rather than discrete fault-related components. Further out into higher bands, the response continues to stay subdued and featureless. In summary, under current operating conditions the spectrum presents a clean, uniform pattern dominated by low-amplitude noise, which supports a normal condition for the bearing.
+
+[0021] GT=normal             | Pred=ball fault         | ✘ | normal=0.451, inner race fault=0.000, outer race fault=0.000, ball fault=0.549
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across the whole band, but compared with a clean reference under similar operating conditions, the low‑frequency part shows more unevenness and denser small fluctuations rather than smooth quiet noise. Around the theoretical rolling element region there isn’t a single sharp, clearly separated line standing out above the background, nor does energy concentrate into a narrow harmonic family aligned with this zone. Instead, the response appears spread over a wider range without forming distinct clusters or organised sidebands. At higher bands the curve remains flat and featureless, lacking strong components near the other bearing-specific markers. Overall, the pattern suggests weak broadband activity associated with rolling-element impacts rather than clear race-related tones, which supports a mild ball fault under current load.
+
+[0022] GT=normal             | Pred=ball fault         | ✘ | normal=0.028, inner race fault=0.000, outer race fault=0.000, ball fault=0.972
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very close to a low noise floor across the whole band, so there's no dominant harmonic family or clear tonal component rising above the background. Compared with the reference condition under similar operating conditions, this trace shows less pronounced regular low-frequency activity and fewer distinct narrow peaks clustered around the theoretical outer race and inner race bands. Instead, the energy remains spread out in weaker, more scattered components rather than forming organised sidebands or strong multiples aligned with the characteristic fault frequencies. At higher frequencies, the response continues on a relatively flat curve without developing into separate ridges or clusters. Overall, the pattern suggests weak rolling element impacts rather than sharp race-related impulses, which is consistent with a mild ball fault under current loading.
+
+[0023] GT=normal             | Pred=normal             | ✔ | normal=0.871, inner race fault=0.000, outer race fault=0.000, ball fault=0.128
+----- report -----
+fault=normal
+When I examine the envelope spectrum, its overall amplitude stays very low across the whole band, forming a smooth curve close to the noise floor without clear regions of elevated energy. Around the theoretical outer race, ball and inner race characteristic frequencies, there are no sharp, isolated peaks standing out distinctly above this quiet background. Instead, the trace shows only gentle, scattered ripples that do not develop into organised harmonic families or sideband patterns aligned with any particular frequency. Higher up in the band, the response remains equally subdued, lacking strong components or structured clusters. In summary, under current operating conditions, the spectrum presents a clean, featureless envelope consistent with a normal condition.
+
+[0024] GT=normal             | Pred=ball fault         | ✘ | normal=0.323, inner race fault=0.000, outer race fault=0.000, ball fault=0.677
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very close to a quiet reference level across the whole band, without forming clear organised structures like narrow bands or evenly spaced families of harmonics. Compared with the smoother response seen under normal conditions, this trace shows more frequent small fluctuations around the baseline, especially within the lower half of the measured range, which suggests increased broadband noise rather than distinct impact events. At the theoretical rolling element characteristic region near about one hundred and forty hertz, there isn't a single sharp peak rising clearly above the surrounding floor, nor does energy concentrate into a clean harmonic chain linked to this location. Similarly, the adjacent areas associated with the outer race and inner race families remain relatively flat and featureless, lacking strong individual components or coherent sideband patterns. Overall, the impression is one of weak, scattered activity rather than focused impulsive responses tied to specific fault mechanisms — consistent with a mild ball-related condition under current operating circumstances.
+
+[0025] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.321, outer race fault=0.679, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0026] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.184, outer race fault=0.815, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0027] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.088, outer race fault=0.912, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak close to about one hundred and sixty hertz, which aligns closely with the theoretical outer race characteristic frequency for this bearing. This component stands clearly above the surrounding noise floor and forms the strongest single line in the band where outer race faults typically appear. A second distinct peak appears near around three hundred and ten hertz, roughly twice the main line, forming a simple harmonic pair. Further up the band, additional weaker lines are present but they remain significantly lower than the primary components and do not develop into separate organised families. Overall, the spectrum shows clear energy concentrated on the BPFO and its second harmonic while other regions stay comparatively quiet, so the pattern supports an outer race fault under current operating conditions.
+
+[0028] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.086, outer race fault=0.914, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak near about one hundred and sixty hertz, closely aligned with the theoretical outer race characteristic frequency for this bearing. This component stands clearly above the surrounding noise floor and establishes the main reference point for the fault-related activity. A second distinct peak appears slightly higher, around roughly three hundred and ten hertz, which corresponds well to the second harmonic of the same fundamental frequency. Further supporting evidence includes weaker but recognisable lines near lower multiples such as about ninety seven hertz, forming a coherent harmonic family across the band. Overall, the pattern shows concentrated energy at the BPFO region and its harmonics while remaining relatively quiet elsewhere, consistent with an outer race fault under present operating conditions.
+
+[0029] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.380, outer race fault=0.620, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0030] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.001, outer race fault=0.999, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0031] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.339, outer race fault=0.661, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0032] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.148, outer race fault=0.852, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0033] GT=inner race fault   | Pred=inner race fault   | ✔ | normal=0.000, inner race fault=0.549, outer race fault=0.450, ball fault=0.000
+----- report -----
+fault=inner race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak close to about one hundred and sixty hertz, which aligns closely with the theoretical inner race characteristic frequency for this bearing. This component rises clearly above the surrounding noise floor and forms the strongest single line in the band where the inner race response is expected. A second distinct peak appears near twice this frequency, around about three hundred and twenty hertz, forming a simple harmonic pair with the main tone. Further supporting evidence includes weaker but recognisable components at lower multiples and additional low-level lines across the remaining band, consistent with energy distributed among related harmonics rather than isolated sidebands. Overall, the pattern shows concentrated energy organised around the inner race family of frequencies while other regions remain comparatively quiet, so the spectrum supports an inner race fault under present operating conditions.
+
+[0034] GT=inner race fault   | Pred=inner race fault   | ✔ | normal=0.000, inner race fault=0.643, outer race fault=0.357, ball fault=0.000
+----- report -----
+fault=inner race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak close to about one hundred and sixty hertz, which aligns closely with the theoretical inner race characteristic frequency for this bearing. This component stands clearly above the surrounding noise floor and forms the strongest single line across the band. A second distinct peak appears near roughly twice that frequency, around about three hundred and twenty hertz, while additional weaker components can be seen at lower bands but none compete with the main feature. Overall, the response is concentrated on the inner race family of lines rather than spreading broadly across other regions, so the pattern supports an inner race fault under present operating conditions.
+
+[0035] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.211, outer race fault=0.789, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0036] GT=inner race fault   | Pred=inner race fault   | ✔ | normal=0.000, inner race fault=0.618, outer race fault=0.382, ball fault=0.000
+----- report -----
+fault=inner race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak close to about one hundred and sixty hertz — very near the theoretical inner race characteristic frequency for this bearing. This component rises clearly above the surrounding noise floor and forms the strongest single line across the band. A second distinct peak appears around roughly twice this frequency, near about three hundred and twenty hertz, while additional weaker components are scattered at lower levels but none develops into a separate organised harmonic family or sideband structure. Overall, the response concentrates on the inner race region without forming a coherent pattern linked to other parts of the spectrum, which supports an inner race fault under present operating conditions.
+
+[0037] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.022, outer race fault=0.978, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0038] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.001, outer race fault=0.999, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak close to about one hundred and sixty hertz, which aligns closely with the theoretical outer race characteristic frequency for this bearing. A second clear component appears near roughly three hundred and ten hertz, forming a distinct harmonic pair with the main line. These two components stand well above the surrounding noise floor while remaining isolated from other regions of the band. Around the theoretical rolling element and inner race bands, no similarly strong, focused lines emerge to compete with the outer race pair. Overall, the pattern shows concentrated energy at the BPFO region and its harmonic multiple under present operating conditions, supporting an outer race fault.
+
+[0039] GT=inner race fault   | Pred=inner race fault   | ✔ | normal=0.000, inner race fault=0.555, outer race fault=0.445, ball fault=0.000
+----- report -----
+fault=inner race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak close to about one hundred and sixty hertz, which aligns closely with the theoretical inner race characteristic frequency for this bearing. This component rises clearly above the surrounding noise floor and forms the strongest single line across the band. A second distinct peak appears near roughly twice this frequency, around three hundred and twenty hertz, while additional weaker lines can be seen at lower bands but they remain significantly smaller than the main components. Overall, the spectrum shows a clear concentration of energy at the inner race characteristic region with supporting harmonics, consistent with an inner race fault under present operating conditions.
+
+[0040] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.019, outer race fault=0.981, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak near about one hundred and sixty hertz, closely aligned with the theoretical outer race characteristic frequency for this bearing. This component stands clearly above the surrounding noise floor and forms the strongest single line across the band. A second distinct peak appears around roughly twice this frequency, close to about three hundred and twenty hertz, forming a simple harmonic pair with the main tone. Further up the scale, additional weaker components are present but they remain subordinate to these two lines and do not develop into separate organised families. Overall, the spectrum shows clear energy concentration at the outer race characteristic region while maintaining relatively low activity elsewhere, which supports the presence of an outer race fault under current operating conditions.
+
+[0041] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.015, outer race fault=0.985, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0042] GT=inner race fault   | Pred=inner race fault   | ✔ | normal=0.000, inner race fault=0.700, outer race fault=0.300, ball fault=0.000
+----- report -----
+fault=inner race fault
+When I examine the envelope spectrum, its most striking feature is a tall, narrow peak close to about one hundred and sixty hertz — very near the theoretical inner race characteristic frequency for this bearing. This component clearly dominates the low-band region where other structures remain weak. A second smaller peak appears slightly higher up, around roughly twice the main line, but no further harmonics form a clean harmonic series based on the fundamental. Across the rest of the band, the trace stays close to a low noise floor without forming additional distinct lines or organised sidebands. Overall, the pattern shows concentrated energy aligned with the inner race family while suppressing competing families, which supports the presence of an inner race fault under present operating conditions.
+
+[0043] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.005, outer race fault=0.995, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0044] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.094, outer race fault=0.906, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0045] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.040, outer race fault=0.960, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0046] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.068, outer race fault=0.932, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0047] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.002, outer race fault=0.998, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak close to about one hundred and sixty hertz, which aligns closely with the theoretical inner race characteristic frequency for this bearing. A second clear component appears near roughly three hundred and ten hertz, slightly above twice the first peak and forming a coherent harmonic pair. These two lines stand well above the surrounding noise floor, while no other distinct peaks compete for prominence across the band. Their regular spacing and elevated amplitude relative to neighbouring regions suggest they arise from a periodic impact process rather than broadband vibration. Overall, the pattern supports an outer race fault under present operating conditions.
+
+[0048] GT=inner race fault   | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.127, outer race fault=0.873, ball fault=0.000
+----- report -----
+fault=outer race fault
+
+[0049] GT=inner race fault   | Pred=inner race fault   | ✔ | normal=0.000, inner race fault=0.673, outer race fault=0.327, ball fault=0.000
+----- report -----
+fault=inner race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak close to about one hundred and sixty hertz, which aligns closely with the theoretical inner race characteristic frequency for this bearing. This component rises clearly above the surrounding noise floor and forms the strongest single line across the band. A second distinct peak appears near twice this frequency, around three hundred and twenty hertz, while additional weaker components are present at lower multiples but remain significantly smaller than the main tone. Overall, the response concentrates on harmonics of the inner race characteristic, supporting the presence of an inner race fault under current operating conditions.
+
+[0050] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the surrounding noise floor across the band, forming a pattern of discrete lines rather than smooth bands. Their amplitudes vary but none dominate completely, while their positions align closely with multiples of the theoretical outer race characteristic frequency around about one hundred and ten hertz. Around twice this base frequency, a second strong component appears near roughly two hundred and twenty hertz, and further harmonics continue at higher orders without forming a simple harmonic series. These components remain relatively isolated from neighbouring regions and do not develop into broad sidebands or continuous structures. Overall, the response consists of multiple well-defined peaks tied to integer multiples of the fundamental outer race rate under present operating conditions, which supports the presence of an outer race fault.
+
+[0051] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the low background level across the band, forming a pattern of multiple isolated lines rather than continuous broadband noise. Around the theoretical outer race characteristic region near about one hundred and ten hertz, there is a strong, well-defined component close to this reference point, while further up the scale additional harmonically related peaks appear at roughly twice and again around triple this base frequency, creating a coherent harmonic family. These components remain relatively sharp compared to their neighbours and stand out against the otherwise quiet floor of the spectrum. At higher bands no dominant competing family emerges to displace this structure. Overall, the energy concentrates into discrete multiples tied to the outer race characteristic frequency under present operating conditions, which supports an outer race fault.
+
+[0052] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the surrounding noise floor across the band, forming a pattern of discrete lines rather than a smooth continuum. Around one hundred and ten hertz, there is a strong, well-defined component close to the theoretical outer race characteristic frequency for this bearing. A second clear line appears near about two hundred and ten Hertz, roughly twice the lower frequency, while further components can also be seen near higher multiples such as around three hundred and fifteen hertz and again near five hundred and twenty hertz — all lying within regions where harmonics of the fundamental would align under simple periodic impact models. These peaks stand out distinctly against the otherwise low background level, showing good isolation without broad spreading into adjacent bands. Overall, the dominant feature remains this organised harmonic family centred on the outer race region, so I interpret the response as being most consistent with an outer race fault under present operating conditions.
+
+[0053] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the low background level across the band, forming a pattern of regular harmonic families rather than scattered noise. Around the theoretical outer race characteristic region near about one hundred and ten hertz, there is a strong single-line component close to this reference point, while further up the scale additional lines appear at roughly double and triple this base frequency, creating a coherent series. These harmonics remain well separated from neighbouring regions where only weak, diffuse activity occurs. Above the main bands, higher-order components continue into the upper part of the trace but stay weaker compared to the dominant family. Overall, the energy concentrates on multiples of the BPFO reference under present operating conditions, which supports the presence of an outer race fault.
+
+[0054] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, its dominant feature is a sharp, narrow peak near about one hundred and ten hertz, closely aligned with the theoretical outer race characteristic frequency for this bearing. This component stands clearly above the surrounding noise floor and forms the strongest single line across the band. Additional distinct peaks appear at higher multiples — notably around about two hundred and ten, three hundred, and again near about five hundred and fifteen hertz — forming a coherent harmonic family whose amplitudes decrease progressively with order. These harmonics remain well separated from adjacent regions and do not develop into broad, continuous bands. Overall, the pattern shows organised energy concentrated on the outer race characteristic and its harmonics while other parts of the spectrum stay comparatively quiet, which supports the presence of an outer race fault under present operating conditions.
+
+[0055] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the low background level across the band, forming a pattern of regular harmonic family lines rather than scattered noise. Around the theoretical outer race characteristic region, there is a strong component near about one hundred and ten hertz, closely aligned with the dominant peak in this family. A further clear line appears slightly higher, close to roughly twice the fundamental spacing, while additional weaker members continue up towards higher multiples without forming separate clusters. These components remain well separated from the adjacent bands where no comparable activity develops. Overall, the energy concentrates into multiple harmonically related tones centred on the outer race characteristic range, which supports an outer race fault under present operating conditions.
+
+[0056] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the low background level across the band, forming a pattern of multiple isolated lines rather than a smooth continuum. Around the theoretical outer race characteristic region near about one hundred hertz, there is a strong, well-defined component close to this reference point. Further out, additional clear peaks appear at higher multiples — for example, around roughly twice the base frequency and again near the next harmonic interval — while weaker but still recognisable components continue into the upper part of the measured range. These features align closely with the expected harmonic family associated with evenly spaced impacts from the outer race under steady operating conditions. Overall, the response shows a structured harmonic series dominated by energy at the fundamental outer race location and its harmonics, which supports the presence of an outer race fault.
+
+[0057] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the surrounding noise floor across the band, forming a pattern of discrete lines rather than a broad continuous component. Around one hundred and ten hertz, there is a strong isolated peak close to the theoretical outer race characteristic frequency for this bearing, and further out near about two hundred and ten, three hundred, and again around five hundred and fifteen hertz, additional well-defined harmonics appear roughly aligned on multiples of that base tone. These components stand out distinctly against the otherwise low-amplitude background, while no single region shows a dominant broadband ridge or a separate cluster dominating the lower part of the spectrum. In summary, the evidence points most strongly to an outer race fault under present operating conditions.
+
+[0058] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the surrounding noise floor, forming a pattern of regular harmonic families rather than isolated lines. Around about one hundred and ten hertz, a strong component aligns closely with the theoretical outer race characteristic frequency for this bearing type, while further harmonics appear near roughly twice that value and again around three times higher. These components remain relatively well spaced across their series and show little sign of spreading into adjacent bands. At lower amplitudes, additional weaker peaks can also be seen but they do not form a dominant second family competing with the main sequence. Overall, the response is dominated by discrete multiples tied to a single fundamental region, which supports an outer race fault under present operating conditions.
+
+[0059] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak close to about one hundred and ten hertz, which aligns closely with the theoretical outer race characteristic frequency for this bearing. This component stands clearly above the surrounding noise floor and forms the strongest isolated line across the band. Additional distinct peaks appear near roughly twice, three times, and again around five times this reference frequency, forming a coherent harmonic family whose amplitudes decrease progressively with order. These harmonics remain well separated from adjacent regions and do not develop into broad continuous bands or diffuse sidebands. By contrast, the response at the inner race and ball characteristic frequencies does not produce comparably strong, organised components under present operating conditions. Overall, the pattern is dominated by energy concentrated on multiples of the outer race fundamental, supporting the interpretation of an outer race fault.
+
+[0060] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, the dominant feature is a tall, narrow peak close to about one hundred and ten hertz, which aligns closely with the theoretical outer race characteristic frequency for this bearing. This component stands clearly above the surrounding noise floor and forms the strongest isolated line across the band. Additional distinct peaks appear near roughly twice this frequency, again around three times this frequency, and further out at higher multiples, forming a coherent harmonic family whose amplitudes decrease progressively with order. These harmonics remain well separated from adjacent regions and do not develop into broad, continuous bands. Overall, the pattern shows organised energy concentrated on discrete lines tied to the outer race characteristic, so I interpret this response as an outer race fault under present operating conditions.
+
+[0061] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak near about one hundred and ten hertz, closely aligned with the theoretical outer race characteristic frequency for this bearing. This component stands clearly above the surrounding noise floor and forms the strongest single line across the band. Additional distinct peaks appear at higher multiples — notably around about two hundred and ten, three hundred, and again near about five hundred and fifteen hertz — forming a coherent harmonic family whose amplitudes decrease progressively with order. These harmonics remain well separated from adjacent regions and do not develop into broad continuous bands. Overall, the pattern shows organised energy concentrated on the outer race characteristic and its harmonics while other parts of the spectrum stay relatively quiet, which supports the presence of an outer race fault under present operating conditions.
+
+[0062] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, the dominant feature is a sharp, narrow peak close to about one hundred and ten hertz, very near the theoretical outer race characteristic frequency for this bearing. This line rises clearly above the surrounding noise floor and forms the strongest single component across the band. Additional distinct peaks appear at higher multiples — notably around about two hundred and fifteen hertz, again roughly twice the fundamental — and further harmonics can be seen at weaker levels near three times and even higher orders. These components remain relatively isolated rather than forming a broad continuous ridge. Overall, the pattern shows clear harmonic development centred on the outer race region while other bands stay comparatively quiet, which supports the presence of an outer race fault under present operating conditions.
+
+[0063] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the low background level across the band, forming a pattern of regular harmonic families rather than scattered noise. Around the theoretical outer race characteristic region near about one hundred and ten hertz, there is a strong, well-defined single tone close to this reference point. A second clear component appears slightly higher up, near roughly twice the fundamental spacing, while further harmonics continue at intervals consistent with multiples of this base frequency. These lines remain relatively isolated from neighbouring regions and do not form broad distributed bands. Their organised structure suggests they arise from periodic impacts related to the outer race geometry under operating conditions. Overall, the spectrum shows multiple discrete components aligned on a simple harmonic progression centred on the BPFO family, which supports the presence of an outer race fault.
+
+[0064] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks stand clearly above the low background level across the band, forming a pattern of regular harmonic family components rather than scattered noise. Around the theoretical outer race characteristic region near about one hundred and ten hertz, there is a strong single dominant line close to this position, while further up the scale additional lines appear roughly twice and again nearly triple this base frequency, creating clear multiples aligned with the fundamental. These harmonics remain relatively isolated from neighbouring bands and do not form broad continuous ridges. Higher through the range other weaker peaks occur but they do not develop into organised families competing with the main series. Overall, the response is dominated by energy concentrated on discrete tones tied to integer multiples of a lower reference frequency, which supports an outer race fault under present operating conditions.
+
+[0065] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the surrounding noise floor across the measured band. Their strongest component appears near about one hundred and ten hertz, closely aligned with the theoretical outer race characteristic frequency for this bearing type. Additional well-defined lines follow at higher multiples — around roughly two hundred and ten, three hundred fifteen, and again near five hundred twenty hertz — forming a coherent harmonic family whose spacing suggests they stem from a common low-order excitation rather than random broadband vibration. These components remain relatively isolated compared to neighbouring regions, where the trace stays comparatively flat and featureless. Overall, the pattern shows organised energy concentrated on harmonics tied to the outer race characteristic, which supports the presence of an outer race fault under present operating conditions.
+
+[0066] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the low background level across the band, forming a pattern of multiple isolated lines rather than continuous broadband noise. Around the theoretical outer race characteristic region near about one hundred and ten hertz, there is a strong, well-defined component close to this reference point. Further out, additional clear peaks appear at higher multiples — notably around roughly twice this base frequency, again near about two hundred and twenty hertz, then again at higher harmonics such as about three times and more than four times the fundamental — creating a coherent harmonic family. These components stand out distinctly from the surrounding quieter regions. In contrast, no similarly dominant single line dominates the bands associated with the other characteristic frequencies under present operating conditions. Overall, the spectrum shows organised energy concentrated on discrete multiples of the outer race characteristic frequency, which supports an outer race fault.
+
+[0067] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, the dominant feature is a tall, narrow peak close to about one hundred and ten hertz, which aligns strongly with the theoretical outer race characteristic frequency for this bearing. This component stands clearly above the surrounding noise floor and forms the strongest isolated line across the band. Additional smaller peaks appear near multiples of this base frequency, including distinct lines around roughly two hundred and ten and three hundred and fifteen hertz, while further harmonics remain weaker but still organised into a coherent harmonic family. These components together create a pattern where energy concentrates at discrete intervals related to the fundamental outer race rate rather than forming broad, distributed bands. Overall, the spectrum shows clear evidence of periodic impulses tied to the outer race under load, so I classify this trace as an outer race fault.
+
+[0068] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the surrounding noise floor across the band, forming a pattern of discrete lines rather than smooth bands. Around about one hundred and ten hertz, there is a strong isolated component close to the theoretical outer race characteristic frequency for this bearing. Further up the scale, additional clear peaks appear near roughly two hundred and ten, three hundred, four hundred and fifty, and slightly higher again — each sitting on its own narrow ridge while leaving quiet valleys between them. These components remain well separated from neighbouring regions and do not form continuous sidebands or broad harmonic families. Overall, the spectrum shows multiple organised impulsive features aligned with multiples of the fundamental outer race rate under present operating conditions, which supports an outer race fault.
+
+[0069] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the low background level across the band, forming a pattern of multiple isolated lines rather than continuous broadband noise. Around the theoretical outer race characteristic region, there is a strong, well-defined component close to about one hundred and ten hertz, which aligns closely with the first marked reference point for this family. Further up the scale, additional harmonically related components appear near roughly twice and three times this base frequency, creating a coherent harmonic series that extends into higher bands without forming dense sidebands or spread-out clusters. These organised multiples stand out against the otherwise quiet floor of the spectrum, while no similarly dominant feature emerges in the regions associated with the rolling elements or inner race under present conditions. Overall, the energy concentrates on discrete tones tied to the outer race characteristic and its harmonics, supporting an outer race fault under current operating states.
+
+[0070] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the surrounding noise floor, forming a pattern of discrete lines rather than a smooth baseline. The strongest component appears near about one hundred and ten hertz, closely aligned with the theoretical outer race characteristic frequency for this bearing. Additional clear peaks are visible at higher multiples — around roughly two hundred and fifteen hertz, again close to twice the fundamental outer race frequency, then further up near three hundred and ten, nearly double the second harmonic, and again near five hundred and twenty hertz, very close to the next multiple. These components form a coherent family of harmonics spaced roughly evenly across the band. Their amplitudes remain relatively strong compared to the low-level background activity between them. Overall, the spectrum shows organised energy concentrated on the harmonic series of the outer race characteristic, which supports the presence of an outer race fault under present operating conditions.
+
+[0071] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the low background level across the band, forming a pattern of discrete lines rather than smooth bands. Around about one hundred and ten hertz, there is a strong isolated component close to the theoretical outer race characteristic frequency for this bearing type. Further up the scale, additional clear peaks appear near roughly twice that frequency, again around about two hundred and twenty hertz, then again near about three times the base frequency and so on — forming a coherent harmonic family where each higher-order member aligns closely with integer multiples of the fundamental. These components remain well separated from neighbouring regions and maintain consistent amplitude relative to their spacing. Overall, the response is dominated by this regular harmonic progression tied to the outer race characteristic, which supports an outer race fault under present operating conditions.
+
+[0072] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the surrounding noise floor across the band, forming a pattern of evenly spaced harmonic family components rather than isolated lines. Their positions align closely with multiples of the theoretical outer race characteristic frequency around one hundred and ten hertz, while weaker but still noticeable harmonics extend further up the scale. Compared with the reference condition under similar operating conditions, this response shows stronger energy concentration at those key harmonic bands and more organised sideband activity relative to the baseline. Overall, the spectral signature supports an outer race fault under present loading.
+
+[0073] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the surrounding noise floor across the measured band. A strong component aligns closely with about one hundred and ten hertz, very near the theoretical outer race characteristic frequency for this bearing. Additional clear lines appear around roughly two hundred and fifteen hertz, again close to twice the fundamental outer race frequency, and further harmonics are visible at higher multiples including near three hundred and twenty hertz and beyond. These components form a coherent harmonic family rather than scattered broadband activity. Their amplitudes remain well separated from neighbouring regions and they dominate the low-order part of the spectrum without forming a broad continuous ridge. Overall, the pattern shows organised energy concentrated on the expected outer race harmonic series under present operating conditions, which supports the presence of an outer race fault.
+
+[0074] GT=outer race fault   | Pred=outer race fault   | ✔ | normal=0.000, inner race fault=0.000, outer race fault=1.000, ball fault=0.000
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, several distinct narrow peaks rise clearly above the low background level across the band, forming a pattern of multiple isolated lines rather than continuous broadband noise. Around the theoretical outer race characteristic region near about one hundred hertz, there is a strong, well-defined component close to this reference point, while further harmonics appear at roughly twice and again around three times this base frequency, creating a coherent harmonic family aligned with the fundamental. At higher bands, additional smaller peaks remain present but they do not form a separate dominant series or develop into a dense harmonic chain like those seen in more severe conditions. Overall, the response is dominated by discrete components tied to multiples of the outer race characteristic frequency under current operating conditions, which supports the presence of an outer race fault.
+
+[0075] GT=ball fault         | Pred=outer race fault   | ✘ | normal=0.000, inner race fault=0.002, outer race fault=0.551, ball fault=0.448
+----- report -----
+fault=outer race fault
+When I examine the envelope spectrum, its overall level remains low across most of the band, but a distinct narrow peak rises clearly near about one hundred hertz — close to the theoretical outer race characteristic frequency for this bearing. This component stands out against the relatively quiet background and forms the dominant feature in the lower part of the trace. Around the higher bands where other fault families would typically show up, such as near the theoretical inner race or ball regions, no similarly strong isolated lines appear. Their corresponding areas stay comparatively flat without forming organised harmonic families or sidebands. Overall, the pattern shows focused energy aligned with the outer race region while leaving the remaining parts of the spectrum subdued, which supports the presence of an outer race fault under present operating conditions.
+
+[0076] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.001, inner race fault=0.000, outer race fault=0.001, ball fault=0.998
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, the overall vibration level remains relatively low across most of the band, but compared with a typical normal reference, there is noticeably more activity in the lower part of the midband rather than forming clear, narrow peaks around the main characteristic regions. Around the theoretical rolling-element region, the response does not show a single dominant component, yet several small peaks appear close together near this area, including ones slightly above and below the expected location. These features stand out against the otherwise fairly flat background and form a denser cluster than the surrounding zones. Further up the scale, no strong separate lines emerge near the other key fault bands, and their higher harmonics remain weak without developing into organised families. Overall, the pattern suggests multiple weak components linked to the rolling elements under load rather than distinct race-related impacts, which supports a mild ball fault condition under present operating conditions.
+
+[0077] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.008, inner race fault=0.000, outer race fault=0.000, ball fault=0.992
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across almost the whole band, but compared with the reference condition under similar operating conditions, this trace shows more frequent small fluctuations near the lower end rather than forming clear organised harmonic families around the theoretical outer race or inner race bands. Around the region where the rolling element would typically interact with the raceways, there isn't a single dominant narrow component rising clearly above the surrounding noise floor, nor does energy concentrate into a strong sideband pattern relative to those markers. Instead, the response appears spread out over several adjacent channels without developing into distinct ridges or clusters that stand apart from the general background activity. At higher frequencies, the curve remains close to the quiet baseline again, showing no obvious increase in power or emergence of regular spaced harmonics. Overall, the signature reflects weak broadband excitation consistent with mild rolling-element impacts rather than sharp race-related impulses, so I classify this state as ball fault under current operational loading.
+
+[0078] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.000, inner race fault=0.000, outer race fault=0.025, ball fault=0.974
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with the reference condition under similar operating conditions, there is noticeably more low-frequency activity near about forty hertz and again around sixty hertz. These regions show small, closely spaced peaks rather than a smooth floor, forming a denser pattern of weak components on the otherwise quiet background. Around the theoretical outer race region, no single sharp line rises clearly above the surrounding noise floor, nor does a distinct harmonic family develop into a coherent series. Similarly, higher up in the inner race band, the response remains scattered without forming organised sidebands or strong multiples. Overall, this behaviour reflects a mild increase in broadband vibration due to rolling-element impacts rather than clear race-related tonal signatures, so the current trace is best interpreted as a ball fault under moderate severity.
+
+[0079] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.000, inner race fault=0.000, outer race fault=0.006, ball fault=0.994
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across almost the whole band, but compared with the reference under similar operating conditions, this trace shows more frequent small peaks and a slightly rougher texture in the lower part of the range. Around the theoretical rolling-element region, there isn’t a single sharp, dominant component rising clearly above the background floor, nor does energy concentrate into a clean harmonic family aligned with multiples of that point. Instead, several weak pulses appear scattered near about one hundred twenty hertz and again around one hundred forty hertz, while further up toward higher bands they remain diffuse without forming organised sidebands or regular spacing patterns. These features suggest some irregular impact activity rather than a strong, coherent race-related tone. Overall, the response remains dominated by noise-like fluctuations rather than distinct fault-characteristic lines, so under current conditions the evidence points towards a mild ball fault.
+
+[0080] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.001, inner race fault=0.000, outer race fault=0.001, ball fault=0.998
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with a clean normal reference trace this curve shows more frequent small fluctuations and slightly denser activity near the lower end rather than forming clear organised harmonic families around the theoretical outer race or inner race bands. Around the region where the rolling element characteristic frequency would lie, there isn't a single sharp dominant component rising clearly above the surrounding noise floor, nor does energy concentrate into a strong narrow ridge aligned with higher multiples of this point. Instead, the response appears spread out over a wider range, producing several weak local variations without developing into distinct sidebands or regular spacing patterns. At higher frequencies, the remaining content remains close to the quiet background level without forming separate clusters tied to the other bearing regions. Overall, the pattern reflects subtle broadband excitation consistent with mild rolling-element interaction under operating conditions, so I classify this condition as ball fault.
+
+[0081] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.000, inner race fault=0.000, outer race fault=0.002, ball fault=0.997
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with a clean reference under similar operating conditions, this trace shows more frequent small fluctuations rather than smooth quietness. Around the region where the rolling element characteristic frequency lies, there isn't a single sharp dominant tone rising clearly above the background floor, nor does energy concentrate into a narrow harmonic family centred on that point. Instead, the response appears spread out over several adjacent bands, forming weak, scattered components without clear separation or strong sideband structure. At higher multiples of the same order, no organised pattern emerges either — the activity remains diffuse and lacks coherent progression. Overall, the signature reflects subtle broadband excitation associated with intermittent impacts rather than discrete race-related tones, which supports a mild ball fault under current loading.
+
+[0082] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.000, inner race fault=0.000, outer race fault=0.015, ball fault=0.985
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with a cleaner reference under similar operating conditions, this trace shows more frequent small fluctuations near the lower end rather than forming distinct narrow peaks around the theoretical outer race or inner race bands. Around the region where the rolling element characteristic frequency would lie, there isn't a clear dominant component rising above the surrounding noise floor, nor does energy concentrate into a simple harmonic family aligned with multiples of that point. Instead, the response appears spread out over several adjacent bins without developing strong sidebands or organised sub-harmonic structure. At higher frequencies, the curve remains close to a quiet baseline again, with no obvious cluster of elevated activity pointing towards separate race-related families. Overall, the pattern suggests weak, diffuse excitation rather than sharp periodic impacts associated with intact balls, which supports a mild ball fault under current load.
+
+[0083] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.000, inner race fault=0.017, outer race fault=0.387, ball fault=0.596
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall noise floor remains relatively low compared with some more heavily loaded conditions, but the low‑band region shows increased activity relative to a clean reference. Around the theoretical rolling element characteristic frequency, there is a modest narrow component standing above the surrounding background, while nearby bands remain comparatively quiet without forming strong harmonic families. Above this band, the response continues on a lower level with scattered weak fluctuations rather than organised sidebands or distinct clusters. At higher frequencies, the trace stays close to the baseline again, showing no dominant competing feature near the other bearing-specific markers under current operating conditions. Overall, the pattern reflects a subtle increase in broadband vibration centred around the ball-passing zone, consistent with mild rolling-element interaction under this ball-fault condition.
+
+[0084] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.039, inner race fault=0.000, outer race fault=0.000, ball fault=0.960
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across the whole band, but compared with a clean reference under similar operating conditions, this trace shows more frequent small fluctuations rather than smooth quietness. Around the region where the rolling-element characteristic frequency lies, there isn't a single sharp, narrow component rising clearly above the surrounding noise floor nor a strong harmonic family developing into a distinct pattern. Instead, energy appears spread out over several adjacent bins as weak, scattered ripples without forming organised sidebands or regular spacing. Similarly, near the other key bearing bands associated with race faults, no dominant peak emerges to stand out against the otherwise flat background. Overall, the response remains dominated by gentle broadband activity rather than discrete fault-related tones, which suggests the current condition corresponds best to a mild ball fault under this particular load and speed setting.
+
+[0085] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.004, inner race fault=0.000, outer race fault=0.000, ball fault=0.995
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with a clean normal reference, there's a noticeable increase in fine-scale activity near the lower end and around the region where the rolling-element characteristic frequency lies. Rather than forming clear, narrow peaks, this energy appears spread out into gentle ripples and short-range fluctuations, without developing strong, organised harmonic families or distinct sidebands. At higher bands, including the zones associated with the outer race and inner race under present operating conditions, the response remains close to the quiet background floor and does not rise above neighbouring areas. Overall, the pattern suggests weak, diffuse impacts rather than sharp, periodic impulses — consistent with a light ball-related condition under current load and speed.
+
+[0086] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.017, inner race fault=0.000, outer race fault=0.000, ball fault=0.983
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall noise floor remains close to the zero line across most of the band, but compared with a clean reference under similar operating conditions, there is noticeably more irregular activity in the lower part of the range. Rather than forming distinct narrow peaks around the theoretical outer race and rolling element bands, this energy appears distributed into several shallow, closely spaced components without clear harmonic structure. Above about one hundred twenty hertz, the response stays relatively quiet again, showing no dominant feature rising clearly above the surrounding background. Overall, the pattern suggests weak, diffuse impulsive content rather than strong periodic impacts associated with defined race faults, which is consistent with a mild ball-related condition under current loading.
+
+[0087] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.000, inner race fault=0.000, outer race fault=0.023, ball fault=0.977
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays well below unity across most of the band, but compared with a cleaner reference condition under similar operating conditions, this trace shows more frequent small peaks and slightly denser activity around lower multiples of the fundamental order rather than forming clear harmonic families above the noise floor. Around the region associated with the rolling element characteristic frequency, there isn't a single dominant narrow component nor a strong step-up relative to adjacent bands, yet several weak lines appear scattered within this zone without developing into a regular sideband pattern. Similarly, near the higher theoretical regions linked to race faults, no organised family of harmonics emerges to stand out against the surrounding background. Instead, energy remains distributed over multiple sub-bands with modest variations between neighbouring segments. Overall, the response lacks distinct fault-related structures while remaining noticeably less uniform than a truly clean reference, which supports a mild ball-related contribution under current loading.
+
+[0088] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.002, inner race fault=0.000, outer race fault=0.001, ball fault=0.998
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with a clean normal reference, there's a denser collection of small, scattered peaks near the lower end rather than a smooth background. Around the theoretical rolling-element region, no single sharp component rises clearly above the surrounding noise floor, nor does a strong harmonic family develop into a distinct pattern. Instead, energy remains distributed over several adjacent bins without forming a dominant narrow ridge or repeating beat structure. Higher up, the response continues to stay close to this quiet baseline without clear organised sidebands tied to the outer race or inner race bands. Overall, the trace shows weak broadband activity consistent with mild impact excitation under current operating conditions, which supports a ball fault interpretation given the lack of stronger race-related features here.
+
+[0089] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.013, inner race fault=0.000, outer race fault=0.000, ball fault=0.986
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with the cleaner reference under similar operating conditions, this trace shows more frequent small fluctuations near the lower end rather than forming clear organised harmonic families around the theoretical outer race or inner race bands. Around the region where the rolling element characteristic frequency would lie, there isn't a single dominant narrow component rising clearly above the surrounding noise floor, nor does energy concentrate into a strong sideband pattern that could indicate regular impact excitation on that particular tone. Instead, the response appears distributed over several closely spaced bins without developing into a coherent series of equally spaced harmonics. At higher frequencies, the curve remains relatively flat and featureless, lacking distinct clusters or sharp peaks aligned with multiples of the other bearing-related markers. Overall, the impression is one of weak broadband activity rather than discrete fault-related lines, which is consistent with a mild ball fault under present loading.
+
+[0090] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.001, inner race fault=0.000, outer race fault=0.001, ball fault=0.999
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with the cleaner reference trace under similar operating conditions, this curve shows more frequent small fluctuations and slight unevenness near the lower part of the range. Around the theoretical rolling element region, there isn't a single sharp, clearly separated component rising above the background floor, nor does a simple harmonic family develop into a clean sideband structure. Instead, energy appears distributed over several adjacent bins without forming a dominant narrow ridge, while higher bands remain relatively quiet and featureless. At the same time, no strong concentration emerges around the other key bearing zones where outer race or inner race families would typically appear if they were active. Overall, the response remains weak and diffuse rather than organised into distinct fault-related lines, which supports a mild ball fault condition under current loading.
+
+[0091] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.000, inner race fault=0.000, outer race fault=0.006, ball fault=0.994
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with a clean reference under similar operating conditions, there's more unevenness near the lower part of the chart. Rather than forming clear, separate lines around the theoretical outer race or inner race bands, the energy appears spread out into several small fluctuations without developing strong, narrow components. Above about twice the rolling element frequency, the response remains close to this quiet floor again, showing no obvious rise or organised harmonic family. Overall, the pattern suggests weak, diffuse activity rather than distinct impact signatures — consistent with a mild ball-related condition under current load.
+
+[0092] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.003, inner race fault=0.000, outer race fault=0.001, ball fault=0.997
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with the reference condition under similar operating states, there is noticeably more unevenness and denser low-frequency activity near the bottom part of the trace. Around the theoretical rolling element region, the response does not form a single sharp component or clear harmonic family, yet several small fluctuations appear within this zone without forming a dominant narrowband feature. Above this range, the remaining portion of the curve continues mostly flat with scattered weak ripples rather than organised sidebands or rising trends. Overall, the pattern suggests increased broadband noise and distributed impulsive content consistent with mild ball-related impacts, while no strong signature emerges at the outer race or inner race bands under current conditions.
+
+[0093] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.000, inner race fault=0.000, outer race fault=0.001, ball fault=0.998
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays well below the reference level seen under normal conditions, but compared with the smoother background trace, there remains noticeable low-frequency irregularity across most of the band. Around the theoretical rolling-element region, several small peaks appear scattered rather than forming a clear harmonic family, while their spacing does not align neatly with multiples of the BPFO or BPFI bands. At higher frequencies, no dominant narrow components rise clearly above the surrounding noise floor, and the remaining energy appears distributed into weak, closely spaced ripples without developing into organised sidebands. Overall, this pattern reflects a relatively quiet response dominated by broadband fluctuations rather than strong periodic impacts associated with distinct race faults, which supports the current condition being classified as ball fault under the given operating state.
+
+[0094] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.001, inner race fault=0.000, outer race fault=0.000, ball fault=0.999
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays well below the reference level seen in the corresponding normal condition, but compared with the smoother background of the clean reference, this trace shows more frequent small fluctuations across the lower band. Around the region where the rolling-element characteristic frequency would lie, there is no single sharp component rising clearly above the surrounding noise floor, nor does a distinct harmonic family develop into a coherent sideband structure. Instead, energy appears distributed in several closely spaced peaks near about forty-one hertz and again around double that frequency, forming a modest cluster rather than a dominant line. These features remain relatively weak and do not produce strong interactions with other parts of the spectrum under current operating conditions. Overall, the pattern reflects subtle broadband activity consistent with mild rolling-element impacts rather than clear race-related impulses, so I classify this response as a ball fault under present loading.
+
+[0095] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.001, inner race fault=0.000, outer race fault=0.001, ball fault=0.998
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall noise floor remains close to a low level across most of the band, but compared with the cleaner reference under similar operating conditions, this trace shows more frequent small fluctuations and slightly denser activity in the lower part of the midband rather than forming clear harmonic families around the theoretical outer race or inner race bands. Around the region where the rolling element characteristic frequency would fall, there is no single sharp dominant component rising clearly above the surrounding background, nor does energy concentrate into a simple multiple-series pattern aligned with multiples of that point. Instead, the response appears distributed over a wider range without strong isolation, which contrasts with the sharper, more organised structures often seen when other race faults dominate. At higher frequencies, the curve continues on a relatively flat path without developing additional well-defined sidebands or clusters. Overall, the evidence points towards a mild, diffuse condition consistent with early-stage ball-related wear rather than a fully developed race fault under current load.
+
+[0096] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.000, inner race fault=0.000, outer race fault=0.006, ball fault=0.994
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with the reference condition under similar operating conditions, there's more irregular activity in the lower part of the range rather than forming clear organised families of harmonics around the key bearing bands. Around the theoretical rolling element region near about one hundred and forty hertz, no single sharp component stands out distinctly above the surrounding noise floor, nor does a strong harmonic chain develop into higher multiples. Instead, energy appears distributed over several narrow bins close to this zone, creating a slightly uneven texture without dominating the local response. Further up towards the next higher family, the trace remains relatively flat again, showing no coherent rise or additional cluster of elevated sidebands. Overall, the pattern suggests weak, scattered excitation associated with the balls rather than distinct impact signatures linked to either raceband, so the current behaviour is best interpreted as a mild ball-related effect under this condition.
+
+[0097] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.000, inner race fault=0.000, outer race fault=0.007, ball fault=0.993
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with the smoother reference under similar operating conditions, this trace shows more frequent small fluctuations near the lower end and slightly denser activity around the mid-band region where the rolling-element-related family of features would appear. Around the theoretical ball-passing frequency for this size of unit, there isn’t a single sharp dominant component rising clearly above the surrounding noise floor, nor does a clean harmonic series develop into a structured pattern. Instead, energy remains spread out over several adjacent bins without forming strong, isolated peaks or organised sidebands. At higher bands, including those aligned with the outer-race and inner-race families, the response continues to stay close to the quiet background level without clear concentration. Overall, the impression is one of weak, diffuse excitation rather than distinct fault-characteristic lines, which supports a mild ball fault under current loading.
+
+[0098] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.000, inner race fault=0.000, outer race fault=0.016, ball fault=0.984
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays close to a quiet reference level across most of the band, but compared with a clean normal trace this curve shows more frequent small fluctuations and slightly denser low-frequency activity rather than smooth isolation. Around the theoretical rolling-element region near about one hundred and forty hertz there isn't a single sharp dominant component rising clearly above the background floor, nor does energy form a strong harmonic family aligned on multiples of this point. Instead, the response appears spread out into several weak, scattered peaks without forming a coherent sideband pattern or clear progression. At higher bands, including the areas associated with the outer race and inner race families, similar shallow excursions occur but none develops into a concentrated ridge or organised cluster. Overall, the impression is one of mild broadband noise with no distinct fault-related structure dominating the spectrum under current operating conditions — consistent with a lightly loaded ball fault under moderate load where impacts remain intermittent rather than periodic.
+
+[0099] GT=ball fault         | Pred=ball fault         | ✔ | normal=0.001, inner race fault=0.000, outer race fault=0.004, ball fault=0.996
+----- report -----
+fault=ball fault
+When I examine the envelope spectrum, its overall amplitude stays very low across most of the band, but compared with a clean reference under similar operating conditions, there's noticeably more low-frequency irregularity and scattered activity rather than a smooth, uniform floor. Around the region where the rolling-element characteristic frequency would lie, no single sharp component stands clearly above the surrounding noise, nor does energy concentrate into a well-defined harmonic family. Instead, the response appears distributed over several narrow bands near this zone without forming strong sidebands or organised patterns. Higher up, away from the main interest regions, the curve remains quiet and featureless, lacking clear tonal structures or rising trends associated with race-related impacts. Overall, the impression is one of subtle, diffuse excitation rather than discrete fault-lines, which aligns best with a mild ball fault under current loading.
+
